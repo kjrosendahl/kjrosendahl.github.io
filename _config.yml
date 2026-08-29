@@ -21,7 +21,7 @@ resume-external: true
 resume-url: https://drive.google.com/file/d/1a7PBcbHrSed7CHjbn4dd-VEeChjL96B4/view
 
 # url: https://sergiokopplin.github.io/indigo
-your url: https://kjrosendahl.github.io
+url: https://kjrosendahl.github.io
 
 permalink: /:categories/:title/
 
@@ -75,7 +75,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog, potpourri, projects, activities]
+post-advance-links: [blog, potpourri, projects]
 
 # show author block at the end of a post ?
 show-author: true
