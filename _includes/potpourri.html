@@ -1,10 +1,10 @@
 <link rel="stylesheet" type="text/css" href="/gallery.css"/>
 {% for image in page.images %}
-        <div class="container">
+        <div class="container" tabindex="0">
             <img src="/assets/images/gallery/{{ page.rel_path }}/{{ image.path }}" alt="{{ image.alt }}" class="image">
             <div class="overlay">
                 <div class="text">
-                    <p style="color:white;">
+                    <p>
                         {% if image.title %}
                         <i>{{ image.title }},</i>
                         {% endif %}
@@ -19,7 +19,7 @@
                         {{ image.date }}
                     </p>
                     {% if image.desc %}
-                        <p style="color:white;">
+                        <p>
                             {{ image.desc }}
                         </p>
                     {% endif %}
