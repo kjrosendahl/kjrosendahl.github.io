@@ -29,7 +29,8 @@
   "lucky": [
     {
       "word": "Spooky",
-      "url": "/pages/halloween/"
+      "url": "/pages/halloween/",
+      "accent": "halloween"
     },
     {
       "word": "Poisoned",

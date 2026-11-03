@@ -178,31 +178,42 @@ function initLuckyButton(entries) {
     button.setAttribute("aria-label", `I'm Feeling ${activeWord}`);
   };
 
-  const setWordImmediate = (word) => {
-    track.innerHTML = `<span class="lucky-word is-current">${word}</span>`;
+  const wordClasses = (entry, state) => {
+    const accent = entry?.accent ? ` lucky-word--${entry.accent}` : "";
+    return `lucky-word ${state}${accent}`;
+  };
+
+  const applyAccent = (entry) => {
+    button.classList.toggle("is-halloween", entry?.accent === "halloween");
+  };
+
+  const setWordImmediate = (word, entry = null) => {
+    track.innerHTML = `<span class="${wordClasses(entry, "is-current")}">${word}</span>`;
     activeWord = word;
+    applyAccent(entry);
     setHref();
   };
 
   sizeToLongestWord();
 
-  const scrollToWord = (word) =>
+  const scrollToWord = (word, entry = null) =>
     new Promise((resolve) => {
       if (animating || word === activeWord) {
+        applyAccent(entry);
         resolve();
         return;
       }
       animating = true;
       const currentEl = track.querySelector(".lucky-word.is-current");
       if (!currentEl) {
-        setWordImmediate(word);
+        setWordImmediate(word, entry);
         animating = false;
         resolve();
         return;
       }
 
       const incoming = document.createElement("span");
-      incoming.className = "lucky-word is-incoming";
+      incoming.className = wordClasses(entry, "is-incoming");
       incoming.textContent = word;
       track.appendChild(incoming);
 
@@ -217,6 +228,7 @@ function initLuckyButton(entries) {
         incoming.classList.add("is-current");
         incoming.style.transform = "";
         activeWord = word;
+        applyAccent(entry);
         setHref();
         animating = false;
         resolve();
@@ -226,7 +238,7 @@ function initLuckyButton(entries) {
   const showDefault = async () => {
     index = -1;
     button.classList.remove("is-cycling");
-    await scrollToWord(defaultWord);
+    await scrollToWord(defaultWord, null);
     setHref();
   };
 
@@ -236,7 +248,8 @@ function initLuckyButton(entries) {
     }
     index = pickRandomIndex();
     button.classList.add("is-cycling");
-    await scrollToWord(current().word);
+    const item = current();
+    await scrollToWord(item.word, item);
   };
 
   const start = (intervalMs) => {
