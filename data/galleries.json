@@ -1,0 +1,2152 @@
+[
+  {
+    "title": "May 2024 - December 2024",
+    "date": "2024-05-02",
+    "slug": "2024-may-24-dec-24",
+    "folder": "may24-dec24",
+    "images": [
+      {
+        "path": "farm-market.jpg",
+        "alt": "vertical greens farm",
+        "name": "Farm and Market",
+        "loc": "Downtown Denver, CO"
+      },
+      {
+        "path": "milked.jpg",
+        "alt": "white balloons spelling get milkd",
+        "name": "Denver Central Market",
+        "loc": "Downtown Denver, CO",
+        "desc": "get milkd!!"
+      },
+      {
+        "path": "lizard.jpg",
+        "alt": "charcoal painting of lizard overlaying a room",
+        "name": "James Dark",
+        "title": "A Lizard with Some Flowers",
+        "loc": "Denver Art Museum",
+        "loc2": "Downtown Denver, CO"
+      },
+      {
+        "path": "mandala.jpg",
+        "alt": "colorful sand mandala in dark room",
+        "name": "Losang Lungrig, Sonam Woser, Geshe Thubten",
+        "title": "Hayagriva Sand Mandala",
+        "loc": "Denver Art Museum",
+        "loc2": "Downtown Denver, CO"
+      },
+      {
+        "path": "linger.jpg",
+        "alt": "three bao buns with meat",
+        "name": "Linger",
+        "loc": "Highland, Denver, CO",
+        "desc": "bbq duck, char siu, and korean fried chicken bao buns"
+      },
+      {
+        "path": "ice-cream.jpg",
+        "alt": "giant milk jug building",
+        "name": "Little Man Ice Cream",
+        "loc": "Highland, Denver, CO",
+        "desc": "right before the storm"
+      },
+      {
+        "path": "pikes.jpg",
+        "alt": "view from green mountain",
+        "name": "Pike's Peak",
+        "loc": "Cascade-Chipita Park, Colorado Springs, CO",
+        "desc": "right before we got hailed on!"
+      },
+      {
+        "path": "mountains.jpg",
+        "alt": "view of red rock mountains",
+        "name": "Garden of the Gods",
+        "loc": "Colorado Springs, CO"
+      },
+      {
+        "path": "mountains-2.jpg",
+        "alt": "view of red rock mountains",
+        "name": "Garden of the Gods",
+        "loc": "Colorado Springs, CO"
+      },
+      {
+        "path": "umai.jpg",
+        "alt": "korean beef bulgogi",
+        "name": "Umai",
+        "loc": "South Loop, Chicago, IL"
+      },
+      {
+        "path": "home.jpg",
+        "alt": "sunset over city westward",
+        "name": "Home",
+        "loc": "South Loop, Chicago, IL"
+      },
+      {
+        "path": "edwards.jpg",
+        "alt": "apple tree post",
+        "name": "Edward's Apple Orchard",
+        "loc": "Poplar Grove, IL",
+        "desc": "where to get the best apple cider donuts, and optionally, apples"
+      },
+      {
+        "path": "pidge.jpg",
+        "alt": "pigeon rocking head forward",
+        "name": "Pigeon!",
+        "loc": "Lakeview, Chicago, IL",
+        "desc": "hell yeah!"
+      },
+      {
+        "path": "gaijin.jpg",
+        "alt": "japanese pancakes with bonito flakes",
+        "name": "Gaijin",
+        "loc": "Fulton Market, Chicago, IL",
+        "desc": "okonomiyaki!"
+      }
+    ],
+    "playlist": "3kUBtHN5dXxpAYl2vy0vHX"
+  },
+  {
+    "title": "May 2024: Montreal",
+    "date": "2024-05-01",
+    "slug": "2024-montreal",
+    "folder": "montreal-24",
+    "images": [
+      {
+        "path": "maison.jpg",
+        "alt": "brick mansion with overgrown ivy",
+        "name": "Maison Reid Wilson",
+        "loc": "Golden Square Mile, Montreal, Canada"
+      },
+      {
+        "path": "pigeon.jpg",
+        "alt": "inside of pigeon themed cafe with pigeon shirts",
+        "name": "Pigeon Cafe",
+        "loc": "Downtown Montreal, Canada",
+        "desc": "with my fellow pigeon enthusiasts"
+      },
+      {
+        "path": "wanda.jpg",
+        "alt": "painting of moon over powerplant",
+        "name": "Wanda Koop",
+        "title": "Who Owns the Moon (Power Plant)",
+        "loc": "Mus\u00e9e de Beaux Arts Montreal",
+        "loc2": "Golden Square Mile, Montreal, Canada",
+        "desc": "on the reflection of the artist's childhood in Ukraine"
+      },
+      {
+        "path": "underground.jpg",
+        "alt": "underground restaurant with glass ceiling",
+        "name": "R\u00c9SO",
+        "loc": "Downtown Montreal, Canada",
+        "desc": "one of many underground locations in the underground city"
+      },
+      {
+        "path": "dejardin.jpg",
+        "alt": "interior of shopping mall with paper crane",
+        "name": "Complexe Dejardins",
+        "loc": "Quartier des Spectacles, Montreal, Canada"
+      },
+      {
+        "path": "james.jpg",
+        "alt": "interior of organ in church",
+        "name": "St. James United Church",
+        "loc": "Downtown Montreal, Canada"
+      },
+      {
+        "path": "anneau.jpg",
+        "alt": "metal circle sculpture",
+        "name": "Claude Cormier",
+        "title": "L'Anneau",
+        "loc": "Place Ville Marie, Montreal, Canada"
+      },
+      {
+        "path": "pain.jpg",
+        "alt": "raspberry baked good",
+        "name": "L'Amour du Pain Vieux-Montreal",
+        "loc": "Old Montreal, Canada",
+        "desc": "I do love bread"
+      },
+      {
+        "path": "basilica.jpg",
+        "alt": "pews and organ in cathedral",
+        "name": "Notre-Dame Basilica de Montreal",
+        "loc": "Old Montreal, Canada"
+      },
+      {
+        "path": "port.jpg",
+        "alt": "ferris wheel and bridge on water",
+        "name": "Vieux-Port de Montreal",
+        "loc": "Old Montreal, Canada"
+      },
+      {
+        "path": "confit.jpg",
+        "alt": "Duck confit and potatoes on cabbage",
+        "name": "L'Express",
+        "loc": "Le Plateau-Mont-Royal, Montreal, Canada",
+        "desc": "duck confit"
+      },
+      {
+        "path": "unicone.jpg",
+        "alt": "neon sign in ice cream shop saying \"I licked it so it's mine\"",
+        "name": "Unicone",
+        "loc": "Le Plateau-Mont-Royal, Montreal, Canada",
+        "desc": "I both bought and licked it"
+      },
+      {
+        "path": "corneli.jpg",
+        "alt": "tomato and burrata wood fired pizza",
+        "name": "Restaurant Corneli",
+        "loc": "Mile-Ex, Monreal, Canada",
+        "desc": "the fattest dollop of burrata"
+      },
+      {
+        "path": "bibliotheque.jpg",
+        "alt": "glass staircases in library",
+        "name": "Grande Biblioth\u00e8que - BAnQ",
+        "loc": "Quartier des Spectacles, Montreal, Canada"
+      }
+    ]
+  },
+  {
+    "title": "December 2023 - April 2024",
+    "date": "2023-12-02",
+    "slug": "2023-dec-23-apr-24",
+    "folder": "dec23-may24",
+    "images": [
+      {
+        "path": "la_luna.jpg",
+        "alt": "egg sandwich and potatoes",
+        "name": "La Luna",
+        "loc": "Pilsen, Chicago, IL",
+        "desc": "el sanguichon"
+      },
+      {
+        "path": "argonne.jpg",
+        "alt": "tubes and machines",
+        "name": "Argonne National Laboratory",
+        "loc": "Lemont, IL"
+      },
+      {
+        "path": "kajiken.jpg",
+        "alt": "pork on noodles topped with shredded seaweed",
+        "name": "Kaijiken",
+        "loc": "Chinatown, Chicago, IL",
+        "desc": "original aruba soba"
+      },
+      {
+        "path": "madison_art.jpg",
+        "alt": "hundreds of red string from column to wall",
+        "name": "Anne Lindberg",
+        "title": "impossible red",
+        "loc": "Madison Museum of Contemporary Art",
+        "loc2": "Madison, WI"
+      },
+      {
+        "path": "madison_pub_library.jpg",
+        "alt": "dark stone stairs and marble handrails under skylight",
+        "name": "Madison Public Library",
+        "loc": "Madison, WI"
+      },
+      {
+        "path": "house_on_rock_1.jpg",
+        "alt": "red and gold carosel in the dark",
+        "name": "House on the Rock",
+        "loc": "Spring Green, WI",
+        "desc": "as seen in American Gods"
+      },
+      {
+        "path": "house_on_rock_2.jpg",
+        "alt": "red and gold carosel in the dark with horses",
+        "name": "House on the Rock",
+        "loc": "Spring Green, WI"
+      },
+      {
+        "path": "house_on_rock_3.jpg",
+        "alt": "red and gold chandelier with mechanical violin players",
+        "name": "House on the Rock",
+        "loc": "Spring Green, WI",
+        "desc": "coin-operated eccentricity"
+      },
+      {
+        "path": "korzo.jpg",
+        "alt": "sandwich, salad, chai",
+        "name": "Cafe Korzo",
+        "loc": "Lakeview, Chicago, IL",
+        "desc": "macrogreens"
+      },
+      {
+        "path": "kims.jpg",
+        "alt": "fried egg, bolgogi, veggies in gold bowl",
+        "name": "Kims",
+        "loc": "Lakeview, Chicago, IL",
+        "desc": "best bimbimbop in the entire city"
+      },
+      {
+        "path": "broken_english_tacos.jpg",
+        "alt": "tray of 6 tacos and sauces",
+        "name": "Broken English",
+        "loc": "The Loop, Chicago, IL"
+      },
+      {
+        "path": "broken_english_wall.jpg",
+        "alt": "bright mexican skull and flower mural on ceiling",
+        "name": "Broken English",
+        "loc": "The Loop, Chicago, IL"
+      },
+      {
+        "path": "jackalope.jpg",
+        "alt": "colorful cafe front with halloween art",
+        "name": "Jackalope Coffee",
+        "loc": "Bridgeport, Chicago, IL"
+      },
+      {
+        "path": "art_vase.jpg",
+        "alt": "vase with gold cracks patching together colored glass",
+        "name": "Chicago Art Museum",
+        "loc": "The Loop, Chicago, IL"
+      },
+      {
+        "path": "mexico_snake.jpg",
+        "alt": "mural of blue woman holding snake",
+        "name": "Cancun, Mexico"
+      },
+      {
+        "path": "mexico_golf_cart.jpg",
+        "alt": "caribbean waves crashing on land",
+        "name": "Cancun, Mexico",
+        "loc": "Dcember 22, 2023",
+        "desc": "caught at 10 mph"
+      },
+      {
+        "path": "monster_ramen.jpg",
+        "alt": "thick ramen broth in silver bowl",
+        "name": "Monster Ramen",
+        "loc": "Wicker Park, Chicago, IL",
+        "desc": "the namesake with wagyu rib and chashu"
+      }
+    ],
+    "playlist": "3tL23A9Nx5TWd3Yc6AW09g?si=8c2b2d34cf704d59"
+  },
+  {
+    "title": "December 2023: NYC",
+    "date": "2023-12-01",
+    "slug": "2023-nyc",
+    "folder": "nyc-23",
+    "images": [
+      {
+        "path": "prince-tea.jpg",
+        "alt": "teacups and teapot and eggs benedict",
+        "name": "Prince Tea House",
+        "loc": "K-Town, Manhattan, NYC",
+        "desc": "the best tea I have ever had"
+      },
+      {
+        "path": "oneill.jpg",
+        "alt": "stage with colorful cloud backdrop",
+        "name": "Eugene O'Neill Theatre",
+        "loc": "Theater District, Manhattan, NYC",
+        "desc": "Book-of-Mormon-type planet"
+      },
+      {
+        "path": "collective-suicide.jpg",
+        "alt": "rich red and gold painting of suffering",
+        "name": "David Alfaro Siqueiros",
+        "title": "Collective Suicide",
+        "loc": "MoMA",
+        "loc2": "Midtown Manhattan, NYC",
+        "desc": "too busy looking to get a straight frame"
+      },
+      {
+        "path": "spam.jpg",
+        "alt": "painting of flying spam",
+        "name": "Ed Ruscha",
+        "title": "Actual Size",
+        "loc": "MoMA",
+        "loc2": "Midtown Manhattan, NYC",
+        "desc": "was not allowed in personal spam for reference"
+      },
+      {
+        "path": "outside-occ.jpg",
+        "alt": "welcome to wtc sign mural",
+        "name": "World Trade Center",
+        "loc": "Lower Manhattan, NYC"
+      },
+      {
+        "path": "occulus.jpg",
+        "alt": "center of mall with spiked tall ceilings",
+        "name": "Oculus World Trade Center",
+        "loc": "Lower Manhattan, NYC"
+      },
+      {
+        "path": "rainbow-bagel.jpg",
+        "alt": "rainbow bagel with strawberry cream cheese",
+        "name": "Liberty Bagels",
+        "loc": "Wallstreet, Manhattan, NYC",
+        "desc": "rainbow bagel!"
+      },
+      {
+        "path": "bagel-display.jpg",
+        "alt": "art display of many bagels",
+        "name": "Liberty Bagels",
+        "loc": "Wallstreet, Manhattan, NYC",
+        "desc": "more bagels!"
+      },
+      {
+        "path": "bbridge-02.jpg",
+        "alt": "Manhattan at night with bridge cables",
+        "name": "Brooklyn Bridge",
+        "loc": "Brooklyn/Manhattan, NYC",
+        "desc": "southside"
+      },
+      {
+        "path": "bbridge-01.jpg",
+        "alt": "Manhattan at night with bridge cables",
+        "name": "Brooklyn Bridge",
+        "loc": "Brooklyn/Manhattan, NYC",
+        "desc": "northside"
+      },
+      {
+        "path": "times.jpg",
+        "alt": "times square advertisements",
+        "name": "Times Square",
+        "loc": "Midtown Manhattan, NYC"
+      },
+      {
+        "path": "amor-loco.jpg",
+        "alt": "bar with skulls and glasses",
+        "name": "Amor Loco",
+        "loc": "Manhattan, NYC"
+      },
+      {
+        "path": "fao.jpg",
+        "alt": "disco balls and stuffed animals on shelves",
+        "name": "FAO Schwarz",
+        "loc": "Rockefeller Center, Manhattan, NYC",
+        "desc": "I believe in Jellycat supremecy"
+      },
+      {
+        "path": "macys-pika.jpg",
+        "alt": "pikachu and eevee parade balloon",
+        "name": "Macy's Thanksgiving Parade",
+        "loc": "6th Avenue, Manhattan, NYC"
+      },
+      {
+        "path": "macy-snoop.jpg",
+        "alt": "Snoopy and woodstock parade balloon",
+        "name": "Macy's Thanksgiving Parade",
+        "loc": "6th Avenue, Manhattan, NYC",
+        "desc": "finally met my heroes"
+      },
+      {
+        "path": "macys-turkey.jpg",
+        "alt": "macys parade turkey balloon",
+        "name": "Macy's Thanksgiving Parade",
+        "loc": "6th Avenue, Manhattan, NYC"
+      },
+      {
+        "path": "anytime-ramyun.jpg",
+        "alt": "plate of ramyum and greens",
+        "name": "Anytime Kitchen",
+        "loc": "K-Town, Manhattan, NYC",
+        "desc": "truffle jjajang ramyun"
+      },
+      {
+        "path": "anytime-popcorn.jpg",
+        "alt": "bowl of popcorn chicken",
+        "name": "Anytime Kitchen",
+        "loc": "K-Town, Manhattan, NYC",
+        "desc": "sweet & spicy popcorn chicken"
+      }
+    ],
+    "playlist": "2c8q13zVGlOSQIYxEpSnOM?si=d3a72c6646214293"
+  },
+  {
+    "title": "August 2023 - November 2023",
+    "date": "2023-08-02",
+    "slug": "2023-aug-23-nov-23",
+    "folder": "aug23-nov23",
+    "images": [
+      {
+        "path": "josies.jpg",
+        "alt": "steak, beans and eggs",
+        "name": "La Josies",
+        "loc": "Fulton Market, Chicago",
+        "desc": "Desayo La Josie -- skirt steak, eggs, and tortillas"
+      },
+      {
+        "path": "milwaukee-art-museum.jpg",
+        "alt": "inside glass building with lake in background",
+        "name": "Milwaukee Art Museum",
+        "loc": "Milwaukee, WI"
+      },
+      {
+        "path": "milwaukee-library.jpg",
+        "alt": "library front entrance",
+        "name": "Milwaukee Public Library",
+        "loc": "Milwaukee, WI"
+      },
+      {
+        "path": "milwaukee-orchestra.jpg",
+        "alt": "balcony view of orchestra pit",
+        "name": "Milwaukee Symphony Orchestra",
+        "loc": "Milwaukee, WI"
+      },
+      {
+        "path": "milwaukee-river.jpg",
+        "alt": "nighttime river reflection on city",
+        "name": "Milwaukee River",
+        "loc": "Milwaukee, Wi",
+        "desc": "silent fish"
+      },
+      {
+        "path": "cso.jpg",
+        "alt": "orchestra pit",
+        "name": "Chicago Symphony Orchestra",
+        "loc": "The Loop, Chicago",
+        "desc": "West Side Story, but make it on the center stage"
+      },
+      {
+        "path": "nederlander-inside.jpg",
+        "alt": "inside of golden music hall",
+        "name": "Nederlander Theatre",
+        "loc": "The Loop, Chicago"
+      },
+      {
+        "path": "nederlander-hamilton-outside.jpg",
+        "alt": "nederlander golden light sign and hamilton poster",
+        "name": "Nederlander Theatre",
+        "loc": "The Loop, Chicago",
+        "desc": "letting it burn"
+      },
+      {
+        "path": "daifuku.jpg",
+        "alt": "ramen bowl",
+        "name": "DaiFuku Ramen",
+        "loc": "Chinatown, Chicago",
+        "desc": "hakata tonkotsu!"
+      },
+      {
+        "path": "taste-chi-nachos.jpg",
+        "alt": "italian beef on nachos",
+        "name": "Taste of Chicago",
+        "loc": "Grant Park, Chicago",
+        "desc": "italian beef nachos, hard earned"
+      }
+    ],
+    "playlist": "7IxQXge1gT3WWfFwRUO5Sa?si=964081ea9a3f415e"
+  },
+  {
+    "title": "August 2023: Italy",
+    "date": "2023-08-01",
+    "slug": "2023-italy",
+    "folder": "italy-23",
+    "images": [
+      {
+        "path": "ponte-storto.jpg",
+        "alt": "bridge leading to a building",
+        "name": "Ponte Storto",
+        "loc": "Venice, Italy"
+      },
+      {
+        "path": "ink-pen-shop.jpg",
+        "alt": "window display of wax seals and glass pens",
+        "name": "Venetian Glass",
+        "loc": "Venice, Italy",
+        "desc": "heaven on earth for the ink enthusiasts"
+      },
+      {
+        "path": "on-gondola.jpg",
+        "alt": "horizon level of a canal",
+        "name": "The Gondolas of Venice",
+        "loc": "Venice, Italy",
+        "desc": "seeing the city at different heights"
+      },
+      {
+        "path": "st-marks-basilica.jpg",
+        "alt": "outside basilica at day",
+        "name": "St. Marks Basilica",
+        "loc": "St. Mark's Square, Venice, Italy"
+      },
+      {
+        "path": "canal-dusk.jpg",
+        "alt": "canal at dusk",
+        "name": "The Canal",
+        "loc": "Venice, Italy"
+      },
+      {
+        "path": "canal-day.jpg",
+        "alt": "canal at day",
+        "name": "The Canal",
+        "loc": "Venice, Italy"
+      },
+      {
+        "path": "gondola-between-buildings.jpg",
+        "alt": "gondola on the river between two buildings",
+        "name": "The Canal",
+        "loc": "Venice, Italy",
+        "desc": "under our feet"
+      },
+      {
+        "path": "david.jpg",
+        "alt": "statue of david looking upward",
+        "name": "Michaelangelo",
+        "title": "David",
+        "loc": "Galleria dell'Accademia",
+        "loc2": "Florence, Italy",
+        "desc": "only one giant in sight"
+      },
+      {
+        "path": "duomo.jpg",
+        "alt": "outside cathedral",
+        "name": "Duomo di Firenze",
+        "loc": "Florence, Italy"
+      },
+      {
+        "path": "view-from-bardini.jpg",
+        "alt": "horizon of florence city",
+        "name": "Bardini Gardens",
+        "loc": "Florence, Italy"
+      },
+      {
+        "path": "me-and-coke.jpeg",
+        "alt": "kaylee holding a coke in the streets at day",
+        "name": "Florencian Streets",
+        "loc": "Florence, Italy"
+      },
+      {
+        "path": "pasticceria-pegaso-pastries.jpg",
+        "alt": "croissant and danish",
+        "name": "Pasticceria Pegasuo",
+        "loc": "Florence, Italy",
+        "desc": "putting the breakfast in B&B"
+      },
+      {
+        "path": "bridge-night.jpg",
+        "alt": "canal at night",
+        "name": "Ponte Amerigo Vespucci",
+        "loc": "Florence, Italy"
+      },
+      {
+        "path": "bridge-more-dusk.jpg",
+        "alt": "canal at dusk with golden lights on water",
+        "name": "Ponte Amerigo Vespucci",
+        "loc": "Florence, Italy"
+      },
+      {
+        "path": "bridge-dusk.jpg",
+        "alt": "overlooking canal at sunset",
+        "name": "Ponte Amerigo Vespucci",
+        "loc": "Florence, Italy"
+      },
+      {
+        "path": "temple-antoninus-faustina.jpg",
+        "alt": "outside greek buildings and white columns",
+        "name": "Temple of Antoninus and Faustina",
+        "loc": "Roman Forum, Rome, Italy"
+      },
+      {
+        "path": "inside-colloseum.jpg",
+        "alt": "overlooking inner colloseum arena",
+        "name": "The Colloseum",
+        "loc": "Rome, Italy"
+      },
+      {
+        "path": "vatican-basilica-pietro.jpg",
+        "alt": "bronze sculpted canopy inside a basilica church",
+        "name": "St. Peter's Baldachin",
+        "loc": "St. Peter's Basilica",
+        "loc2": "Vatican City, Rome, Italy",
+        "desc": "sacrificing self-importance at the altar"
+      },
+      {
+        "path": "vatican-golden-hall.jpg",
+        "alt": "golden paintings in frames on ceiling in hall",
+        "name": "Gallery of Maps",
+        "loc": "Vatican City, Rome, Italy",
+        "desc": "never ending heaven"
+      },
+      {
+        "path": "vatican-statue-hall.jpg",
+        "alt": "hall of statues",
+        "name": "The Vatican",
+        "loc": "Vatican City, Rome, Italy"
+      },
+      {
+        "path": "vatican-statues-child-shoulder.jpg",
+        "alt": "child on mans shoulder statue",
+        "name": "The Vatican",
+        "loc": "Vatican City, Rome, Italy"
+      },
+      {
+        "path": "vatican-pinecone.jpg",
+        "alt": "pinecone statue in couryard",
+        "name": "Fontana della Pigna",
+        "loc": "Vatican City, Rome, Italy",
+        "desc": "literally, Pinecone Fountain in the Pinecone Courtyard"
+      },
+      {
+        "path": "sant-angelo-gilded-ceiling.jpg",
+        "alt": "paintings in gold frames on ceiling",
+        "name": "Castel Sant'Angelo",
+        "loc": "Rome, Italy",
+        "desc": "golden and gilded"
+      },
+      {
+        "path": "sant-angelo-rome-view.jpg",
+        "alt": "river and downtown rome",
+        "name": "Castel Sant'Angelo",
+        "loc": "Rome, Italy",
+        "desc": "overlooking roma"
+      },
+      {
+        "path": "sant-angelo-statue.jpg",
+        "alt": "female statue inside castle",
+        "name": "Castel Sant'Angelo",
+        "loc": "Rome, Italy"
+      },
+      {
+        "path": "orange-street.jpg",
+        "alt": "orange buildings on roman street",
+        "name": "Roman Streets",
+        "loc": "Rome, Italy"
+      },
+      {
+        "path": "outside-alice.jpg",
+        "alt": "orange building between tree foliage",
+        "name": "Roman Streets",
+        "loc": "Rome, Italy"
+      }
+    ],
+    "playlist": "2cFDkLKuOv6n5TZZkEat0E?si=8ef079b1ffcd4a81"
+  },
+  {
+    "title": "May 2023 - August 2023",
+    "date": "2023-05-02",
+    "slug": "2023-may-23-aug-23",
+    "folder": "may23-aug23",
+    "images": [
+      {
+        "path": "from-wheel.jpg",
+        "alt": "chicago skyline with cloudy sky",
+        "name": "Navy Pier, Centennial Wheel",
+        "loc": "Streeterville, Chicago"
+      },
+      {
+        "path": "time-out.jpg",
+        "alt": "glass ceiling of open space food market",
+        "name": "Time Out Market",
+        "loc": "Fulton Market, Chicago"
+      },
+      {
+        "path": "ramen-art.jpg",
+        "alt": "great wave ramen mural",
+        "name": "Unknown Artwork",
+        "loc": "Logan Square, Chicago"
+      },
+      {
+        "path": "lincoln-park-zoo.jpg",
+        "alt": "trees on lake",
+        "name": "Lincoln Park Zoo",
+        "loc": "Lincoln Park, Chicago",
+        "desc": "reliving my childhood field trips"
+      },
+      {
+        "path": "indy-fountain.jpg",
+        "alt": "stone statue with blue water",
+        "name": "Fountain Square",
+        "loc": "Indianapolis, IN",
+        "desc": "(fresh)water spray in the middle of a dying city"
+      },
+      {
+        "path": "night-newfield.jpg",
+        "alt": "glass circular art museum",
+        "name": "Indianapolis Museum of Art at Newfields",
+        "loc": "Indianapolis, IN",
+        "desc": "the island of Ithaca"
+      },
+      {
+        "path": "newfield-bubble.jpg",
+        "alt": "black sculpture resembling puffy bubbles",
+        "name": "Indianapolis Museum of Art at Newfields",
+        "loc": "Indianapolis, IN"
+      },
+      {
+        "path": "newfield-sunflower.jpg",
+        "alt": "room of fake sunflowers",
+        "name": "The LUME",
+        "loc": "Indianapolis Museum of Art at Newfields",
+        "loc2": "Indianapolis, IN"
+      },
+      {
+        "path": "newfield-van-gogh.jpg",
+        "alt": "starry night over the rhone projected on walls and floor",
+        "name": "The LUME",
+        "loc": "Indianapolis Museum of Art at Newfields",
+        "loc2": "Indianapolis, IN",
+        "desc": "wishing I could escape inside a painting"
+      },
+      {
+        "path": "livery-app.jpg",
+        "alt": "row of plantains and dollops of sauce",
+        "name": "The Livery",
+        "loc": "Indianapolis, IN",
+        "desc": "first time trying plantains!"
+      },
+      {
+        "path": "livery-main.jpg",
+        "alt": "canelones with salsa",
+        "name": "The Livery",
+        "loc": "Indianapolis, IN",
+        "desc": "canelones!"
+      },
+      {
+        "path": "union-roof.jpg",
+        "alt": "colorful chilaquiles",
+        "name": "Union Roof",
+        "loc": "Minneapolis, MN",
+        "desc": "chilaquiles!"
+      },
+      {
+        "path": "mn-falls.jpg",
+        "alt": "waterfall into river in the woods",
+        "name": "Minnehaha Falls",
+        "loc": "Minneapolis, MN",
+        "desc": "serenity and slipping off algae-covered rocks"
+      },
+      {
+        "path": "roosevelt-orb.jpg",
+        "alt": "yellow light orb in front of night chicago skyline",
+        "name": "Roosevelt Collection",
+        "loc": "South Loop, Chicago"
+      },
+      {
+        "path": "dong-ne.jpg",
+        "alt": "korean bbq dish with rice",
+        "name": "Dong-Ne",
+        "loc": "Lincoln Park, Chicago",
+        "desc": "perhaps the best korean bbq during the most awkward hangout"
+      },
+      {
+        "path": "chi-river.jpg",
+        "alt": "purple and blue lights shining on building on a river",
+        "name": "Chicago River",
+        "loc": "The Loop, Chicago"
+      },
+      {
+        "path": "kyu.jpg",
+        "alt": "ramen, a bao bun, and jar of thai tea",
+        "name": "Kyuramen",
+        "loc": "River North",
+        "desc": "can't decide which part of the meal was the best (the ramen, the spicy pork bun, or the sweet thai tea)"
+      }
+    ],
+    "playlist": "6RVk0yTU37buKVcbIeKyTz?si=eb3a052be7664ff0"
+  },
+  {
+    "title": "May 2023: Seattle",
+    "date": "2023-05-01",
+    "slug": "2023-seattle",
+    "folder": "seattle-23",
+    "images": [
+      {
+        "path": "puget-sound-from-pike.jpg",
+        "alt": "overlook of water",
+        "name": "Puget Sound",
+        "loc": "Pike Place, Seattle, WA",
+        "desc": "seaward breeze"
+      },
+      {
+        "path": "pike-market.jpg",
+        "alt": "public market center sign in front of the market",
+        "name": "Pike Place Market",
+        "loc": "Pike Place, Seattle, WA",
+        "desc": "perhaps my favorite visit. tons of art, food, vintage books, quirky finds, and flying fish"
+      },
+      {
+        "path": "moore-bear-coffee.jpg",
+        "alt": "coffee art of a bear",
+        "name": "Moore Coffee Shop",
+        "loc": "Pike Place, Seattle, WA",
+        "desc": "ironically hate coffee, so I had to settle for a cute bear/pig nestled in warm chai"
+      },
+      {
+        "path": "wash-u-staircase.jpg",
+        "alt": "castle-like swirling staircase",
+        "name": "Suzzallo Library",
+        "loc": "University of Washington",
+        "loc2": "University District, Seattle, WA"
+      },
+      {
+        "path": "wash-u-library.jpg",
+        "alt": "castle-like library study room at washu",
+        "name": "Suzzallo Library",
+        "loc": "University of Washington",
+        "loc2": "University District, Seattle, WA"
+      },
+      {
+        "path": "elliot-bay-book-company.jpg",
+        "alt": "bookstore open space",
+        "name": "Elliot Bay Book Company",
+        "loc": "Capitol Hill, Seattle, WA"
+      },
+      {
+        "path": "gum-wall.jpg",
+        "alt": "wall of gum",
+        "name": "Gum Wall",
+        "loc": "Pike Place Market, Seattle, WA",
+        "desc": "only got mildly sickened"
+      },
+      {
+        "path": "space-needle-view-2.jpg",
+        "alt": "view of downtown seattle at night from space needle",
+        "name": "Space Needle",
+        "loc": "Seattle Center, Downtown Seattle, WA"
+      },
+      {
+        "path": "space-needle-view.jpg",
+        "alt": "view of downtown seattle at night from space needle",
+        "name": "Space Needle",
+        "loc": "Seattle Center, Downtown Seattle, WA"
+      },
+      {
+        "path": "seattle-public-library.jpg",
+        "alt": "glass sloped lattice ceiling",
+        "name": "Seattle Public Library",
+        "loc": "Downtown Seattle, WA"
+      },
+      {
+        "path": "bake-shop-sand.jpg",
+        "alt": "hamd and cheese sandwich",
+        "name": "Bake Shop",
+        "loc": "Uptown, Seattle, WA",
+        "desc": "little bit of confidence food"
+      },
+      {
+        "path": "coraline-garden.jpg",
+        "alt": "glowing garden model from coraline",
+        "name": "Hidden Worlds, the Films of LAIKA",
+        "loc": "Museum of Pop Culture",
+        "loc2": "Seattle Center, Downtown Seattle, WA",
+        "desc": "special exhibit for LAIKA films, including one of my favorite movies, Coraline!"
+      },
+      {
+        "path": "pink-palace-mopop.jpg",
+        "alt": "model pink house from Coraline",
+        "name": "Hidden Worlds, the Films of LAIKA",
+        "loc": "Museum of Pop Culture",
+        "loc2": "Seattle Center, Downtown Seattle, WA",
+        "desc": "the pink palace used for the set!"
+      },
+      {
+        "path": "ba-bar.jpg",
+        "alt": "pork and rice dish",
+        "name": "Ba Bar",
+        "loc": "South Lake Union, Seattle, WA",
+        "desc": "pork belly, lemongrass, and n\u01b0\u1edbc ch\u1ea5m"
+      },
+      {
+        "path": "chihuly-flower-glasshouse.jpg",
+        "alt": "glass flowers suspended in the air",
+        "name": "The Glasshouse",
+        "loc": "Chihuly Glass and Garden Museum",
+        "loc2": "Seattle Center, Downtown Seattle, WA",
+        "desc": "never felt peace until now"
+      },
+      {
+        "path": "chihuly-boat.jpg",
+        "alt": "boat of colorful glass balls and vases",
+        "name": "Ikebana and Float Boats",
+        "loc": "Chihuly Glass and Garden Museum",
+        "loc2": "Seattle Center, Downtown Seattle, WA"
+      },
+      {
+        "path": "chihuly-garden.jpg",
+        "alt": "garden glass scene with flowers and plants",
+        "name": "Mille Fiori",
+        "loc": "Chihuly Glass and Garden Museum",
+        "loc2": "Seattle Center, Downtown Seattle, WA"
+      },
+      {
+        "path": "chihuly-blue-ocean.png",
+        "alt": "glass tower of swirling blue and sea life sculptures",
+        "name": "Sealife Tower",
+        "loc": "Chihuly Glass and Garden Museum",
+        "loc2": "Seattle Center, Downtown Seattle, WA",
+        "desc": "falling in love with glass water"
+      },
+      {
+        "path": "chihuly-squid.jpg",
+        "alt": "golden glass squid lying on coral",
+        "name": "Chihuly Glass and Garden Museum",
+        "loc": "Seattle Center, Downtown Seattle, WA"
+      },
+      {
+        "path": "chihuly-white-snow.jpg",
+        "alt": "glass white spikes",
+        "name": "Winter Brilliance",
+        "loc": "Chihuly Glass and Garden Museum",
+        "loc2": "Seattle Center, Downtown Seattle, WA",
+        "desc": "breathtaking out the gate"
+      },
+      {
+        "path": "space-needle-glass-flower.jpg",
+        "alt": "tall glass flower sculptures",
+        "name": "Space Needle Flowers",
+        "loc": "Seattle Center, Downtown Seattle, WA",
+        "desc": "feeling small"
+      },
+      {
+        "path": "fountain-lawn.jpg",
+        "alt": "half-sphere fountain shooting water",
+        "name": "International Fountain",
+        "loc": "Seattle Center, Downtown Seattle, WA"
+      },
+      {
+        "path": "space-needle-corndog.jpg",
+        "alt": "korean corn dog held up to the space needle",
+        "name": "Northwest Folklife Festival",
+        "loc": "Seattle Center, Downtown Seattle, WA",
+        "desc": "festival of art, crafts, music, and food (to scale)"
+      },
+      {
+        "path": "gathering-storm-sam.jpg",
+        "alt": "painting of koi fish in a transluscent water pond",
+        "name": "Lin Onus",
+        "title": "Gathering Storm",
+        "loc": "Seattle Art Museum",
+        "loc2": "Downtown Seattle, WA",
+        "desc": "this picture, nor the poster I took home, can do it justice"
+      },
+      {
+        "path": "puget-sound-sam.jpg",
+        "alt": "painting of puget sound",
+        "name": "Albert Bierstadt",
+        "title": "Puget Sound on the Pacific Coast",
+        "loc": "Seattle Art Musem",
+        "loc2": "Downtown Seattle, WA"
+      },
+      {
+        "path": "scream-room-sam.jpg",
+        "alt": "mats on the floor and a large neon sign saying \"i've composed a new american national anthem - take a knee and scream until you can't breathe\"",
+        "name": "Nicholas Galanin",
+        "title": "Neon American Anthem",
+        "loc": "Seattle Art Museum",
+        "loc2": "Downtown Seattle, WA",
+        "desc": "too shy to kneel and scream"
+      },
+      {
+        "path": "citizen-m.jpg",
+        "alt": "hotel bar",
+        "name": "CitizenM",
+        "loc": "Pioneer Square, Seattle, WA",
+        "desc": "takes high-class living to another level"
+      },
+      {
+        "path": "puget-sound-ferris.jpg",
+        "alt": "seattle ferris wheel over the water at sunset",
+        "name": "Seattle Great Wheel",
+        "loc": "Eliott Bay, Seattle, WA"
+      },
+      {
+        "path": "momosan.jpg",
+        "alt": "ramen in a white bowl with ground pork",
+        "name": "Momosan",
+        "loc": "Chinatown, Seattle, WA",
+        "desc": "the best ramen I've had the honor of eating. tan-tan ramen with miso pork and sesame broth"
+      },
+      {
+        "path": "cat-bags.jpg",
+        "alt": "collection of tote bags of round eyed cats",
+        "name": "Fremont Sunday Market",
+        "loc": "Fremont, Seattle, WA",
+        "desc": "couldn't tear my eyes away"
+      }
+    ],
+    "playlist": "6PcA1LrUZOvsLgNWqAsKgY?si=7a0f2ba827c5411b"
+  },
+  {
+    "title": "March 2023 - May 2023",
+    "date": "2023-03-01",
+    "slug": "2023-mar-23-may-23",
+    "folder": "mar23-may23",
+    "images": [
+      {
+        "path": "minch.jpg",
+        "alt": "orange cat and brown cat cuddling",
+        "name": "Minch Coffee + Orlando Cat Cafe",
+        "loc": "Orlando, FL"
+      },
+      {
+        "path": "sushi-plus.png",
+        "alt": "red and pink tulips",
+        "name": "Sushi + | Rotary Sushi",
+        "loc": "Chinatown, Chicago",
+        "desc": "first rotary sushi bar, and I could not stop grabbing"
+      },
+      {
+        "path": "red-tulips-holland.jpg",
+        "alt": "Tulip Time Festival",
+        "name": "Tulip Time Festival",
+        "loc": "Holland, MI",
+        "desc": "be brave! stand out!"
+      },
+      {
+        "path": "red-white-tulips-holland.jpg",
+        "alt": "orange, red, pink, and white flowers",
+        "name": "Tulip Time Festival",
+        "loc": "Holland, MI",
+        "desc": "shine bright!"
+      },
+      {
+        "path": "nias-heart.jpg",
+        "alt": "paper cards with chinese in the form of a heart",
+        "name": "Nia's Boba",
+        "loc": "Bridgeport, Chicago",
+        "desc": "falling in love with strawberry tea"
+      },
+      {
+        "path": "margies-dragon-mango.jpg",
+        "alt": "pistachio ice cream and dragonfruit mango ice cream in front of kaylee",
+        "name": "Margie's Candies",
+        "loc": "Wicker Park, Chicago",
+        "desc": "first time at the Chicago legend, with mango dragonfruit ice cream"
+      },
+      {
+        "path": "francos.jpg",
+        "alt": "pasta cream sauce",
+        "name": "Franco's Ristorante",
+        "loc": "Bridgeport, Chicago",
+        "desc": "dying of hunger. fettuccini alla Franco"
+      }
+    ],
+    "playlist": "7ovTSOjzemlyQN7MtXGQyU?si=687690e8c5fe4bec"
+  },
+  {
+    "title": "March 2023: DC",
+    "date": "2023-03-01",
+    "slug": "2023-dc",
+    "folder": "dc-23",
+    "images": [
+      {
+        "path": "library-congress-ceiling.jpg",
+        "alt": "wide painted ceilings in library of congress",
+        "name": "Library of Congress",
+        "loc": "Capitol Hill",
+        "desc": "craning my neck to gaze at the sunlight"
+      },
+      {
+        "path": "library-congress-painted-ceilings.jpg",
+        "alt": "wide painted ceilings in library of congress",
+        "name": "Library of Congress",
+        "loc": "Capitol Hill"
+      },
+      {
+        "path": "library-congress-research.jpg",
+        "alt": "large atrium for research in library",
+        "name": "Library of Congress",
+        "loc": "Capitol Hill"
+      },
+      {
+        "path": "unconventional-diner.jpg",
+        "alt": "french dip pasta",
+        "name": "Unconventional Diner",
+        "loc": "Mt. Vernon Square, DC",
+        "desc": "chicken parm \"florentine\" with gruy\u00e8re, \"french dip\" pappardelle with flank and horseradish, and truffle mac. best leftovers ever"
+      },
+      {
+        "path": "air-and-space-planet-model.jpg",
+        "alt": "solar system glass model",
+        "name": "National Air and Space Museum",
+        "loc": "National Mall, DC",
+        "desc": "how does Earth organize birthday parties? they PLANET!"
+      },
+      {
+        "path": "air-and-space-astronaut.jpg",
+        "alt": "neil armstrong suit",
+        "name": "National Air and Space Museum",
+        "loc": "National Mall, DC"
+      },
+      {
+        "path": "natural-history-cool-rocks.jpg",
+        "alt": "large blocky flourite",
+        "name": "National Museum of Natural History",
+        "loc": "National Mall, DC",
+        "desc": "pwetty rocks"
+      },
+      {
+        "path": "natural-history-fluorite.jpg",
+        "alt": "large blocky flourite",
+        "name": "National Museum of Natural History",
+        "loc": "National Mall, DC",
+        "desc": "resisting the urge to eat"
+      },
+      {
+        "path": "natural-history-quartz.jpg",
+        "alt": "spiky clear and white quartz rock",
+        "name": "National Museum of Natural History",
+        "loc": "National Mall, DC",
+        "desc": "so this is what Minecraft was talking about"
+      },
+      {
+        "path": "natural-history-fish-tank.jpg",
+        "alt": "blue fish tank",
+        "name": "National Museum of Natural History",
+        "loc": "National Mall, DC",
+        "desc": "wherever I go, I am constantly entranced by the fishies"
+      },
+      {
+        "path": "nat-museum-of-art-niagra.jpg",
+        "alt": "painting of niagra falls in a golden frame",
+        "name": "Frederic Edwin Church",
+        "title": "Niagra",
+        "loc": "The National Gallery of Art",
+        "loc2": "National Mall, DC"
+      },
+      {
+        "path": "nat-museum-of-art-statue.jpg",
+        "alt": "marble statue between two stained glass windows",
+        "name": "The National Gallery of Art",
+        "loc": "National Mall, DC"
+      },
+      {
+        "path": "lincoln-memorial.jpg",
+        "alt": "Lincoln memorial from outside",
+        "name": "The Lincoln Memorial",
+        "loc": "National Mall, DC",
+        "desc": "a tad more impressive than a penny"
+      },
+      {
+        "path": "lincoln-statue.jpg",
+        "alt": "Lincoln memorial statue",
+        "name": "The Lincoln Memorial",
+        "loc": "National Mall, DC"
+      },
+      {
+        "path": "cherry-blossom-wharf.jpg",
+        "alt": "me sitting on a dock with fake cherry blossom lights",
+        "name": "Wharf Street",
+        "loc": "The Wharf, DC",
+        "desc": "daydreaming"
+      },
+      {
+        "path": "kaliwa.jpg",
+        "alt": "curry topped with peanuts",
+        "name": "Kaliwa",
+        "loc": "The Wharf, DC",
+        "desc": "thai panang curry"
+      },
+      {
+        "path": "wharf-fountain.jpg",
+        "alt": "water fountain with glass building",
+        "name": "Wharf Street",
+        "loc": "The Wharf, DC"
+      },
+      {
+        "path": "bar-taco-alc.jpg",
+        "alt": "bar with golden lights",
+        "name": "bartaco",
+        "loc": "The Wharf, DC",
+        "desc": "bright, energetic, and completely swankified bar right along the waterfront"
+      },
+      {
+        "path": "bar-taco.jpg",
+        "alt": "four small tacos on a silver tray",
+        "name": "bartaco",
+        "loc": "The Wharf, DC",
+        "desc": "roasted duck with tamarind glaze, sesame ribeye, pork belly in arbol chili sauce, chorizo with chimichurro"
+      },
+      {
+        "path": "tunnel.jpg",
+        "alt": "train rail under large tunnel",
+        "name": "Metro at L'Enfant Plaza",
+        "loc": "Southwest Federal Center, DC"
+      }
+    ],
+    "playlist": "7twOIJTE0xIqMRFtZUSOEx?si=bafed0d29e5a4fe3"
+  },
+  {
+    "title": "January 2023  - March 2023",
+    "date": "2023-01-01",
+    "slug": "2023-jan-23-mar-23",
+    "folder": "jan23-mar23",
+    "images": [
+      {
+        "path": "happy-lamb.jpg",
+        "alt": "collection of uncooked meats and noodles",
+        "name": "Happy Lamb Hot Pot",
+        "loc": "Chinatown, Chicago",
+        "desc": "first foray into hotpot"
+      },
+      {
+        "path": "wndr-box-lights.png",
+        "alt": "mirror cubes with flashing blue lights",
+        "name": "WNDR Museum",
+        "loc": "West Loop, Chicago",
+        "desc": "tripping"
+      },
+      {
+        "path": "sushi-dokku-sushi.jpeg",
+        "alt": "salmon sushi",
+        "name": "Sushi Dokku",
+        "loc": "Fulton Market, Chicago",
+        "desc": "really good salmon sushi (no clue how it was so good)"
+      },
+      {
+        "path": "il-culaccino-calamari.jpg",
+        "alt": "plate of fried calamari",
+        "name": "Il Culaccino",
+        "loc": "South Loop, Chicago",
+        "desc": "aka, perhaps the best calamari I've ever had"
+      },
+      {
+        "path": "il-culaccino-spicy-pesto.jpg",
+        "alt": "pesto pasta",
+        "name": "Il Culaccino",
+        "loc": "South Loop, Chicago",
+        "desc": "mouth-watering spicy pesto pasta"
+      },
+      {
+        "path": "eleven-deli-corned-beef.jpg",
+        "alt": "plate of corned beef sandwich with a flag in it",
+        "name": "Eleven City Diner",
+        "loc": "South Loop, Chicago",
+        "desc": "corned beef, matzo ball soup, and my first egg cream shake"
+      },
+      {
+        "path": "kasumi-sushi-unl.jpg",
+        "alt": "fried sushi rolls",
+        "name": "Kasumi Sushi",
+        "loc": "Lincoln, NE",
+        "desc": "salmon + mango + more salmon"
+      },
+      {
+        "path": "shedd-blue-jellyfish.jpg",
+        "alt": "light blue jellyfish in a dark tank",
+        "name": "The Shedd Aquarium",
+        "loc": "Museum Campus, Chicago"
+      },
+      {
+        "path": "menger-sponge.jpg",
+        "alt": "level 3 menger sponge out of lego blocks",
+        "name": "JMM",
+        "loc": "Hynes Convention Center",
+        "loc2": "Back Bay, Boston, MA",
+        "desc": "don't talk to me unless you've personally built a Menger sponge out of 32,000 Lego bricks"
+      },
+      {
+        "path": "mariott-boston-view.jpg",
+        "alt": "overcast view of boston streets",
+        "name": "Marriott Copley",
+        "loc": "Back Bay, Boston, MA",
+        "desc": "cloudy with a chance of math talks"
+      },
+      {
+        "path": "science-museum-mirror.jpg",
+        "alt": "my friends standing in front of checkerboard of mirror squares",
+        "name": "Museum of Science",
+        "loc": "Boston, MA",
+        "desc": "let's play \"Where's Kaylee?\""
+      },
+      {
+        "path": "pink-puffs.jpg",
+        "alt": "pink fluffy flowers on a tree",
+        "name": "Museum of Science",
+        "loc": "Boston, MA"
+      },
+      {
+        "path": "rose.jpg",
+        "alt": "glass of rose in front of a golden light tree",
+        "name": "Bar Siena",
+        "loc": "Fulton Market, Chicago"
+      }
+    ],
+    "playlist": "3tL23A9Nx5TWd3Yc6AW09g?si=c87694bf590843e0"
+  },
+  {
+    "title": "December 2022: NYC",
+    "date": "2022-12-01",
+    "slug": "2022-nyc",
+    "folder": "nyc-22",
+    "images": [
+      {
+        "path": "wicked.jpg",
+        "alt": "me holding up the Wicked playbill in front of the stage",
+        "name": "Wicked",
+        "loc": "Gershwin Theatre",
+        "loc2": "Theater District, Manhattan, NYC",
+        "desc": "my first Broadway show! long awaited, much loved, and the best thing I did in New York"
+      },
+      {
+        "path": "wagamama-ramen.jpg",
+        "alt": "pork ramen with egg",
+        "name": "wagamama",
+        "loc": "Midtown Manhattan, NYC",
+        "desc": "szechuan pork ramen, aka my savior from cold NY streets"
+      },
+      {
+        "path": "times-square-night.jpg",
+        "alt": "times square at night",
+        "name": "Times Square",
+        "loc": "Midtown Manhattan, NYC",
+        "desc": "never before have billboard lights felt so euphoric"
+      },
+      {
+        "path": "truffle-gnocchi-joannes.jpg",
+        "alt": "dish of gnocchi pasta",
+        "name": "Joanne Trattoria",
+        "loc": "Upper West Side, Manhattan, NYC",
+        "desc": "gnocchi with white truffle sauce"
+      },
+      {
+        "path": "escalators-fifth-ave.jpg",
+        "alt": "mall escalators with shiny rainbow glass",
+        "name": "Saks Fifth Avenue",
+        "loc": "Midtown East, Manhattan, NYC",
+        "desc": "where handbags are $1200, but rainbow escalators are free"
+      },
+      {
+        "path": "times-square-day.jpg",
+        "alt": "times square with flashing billboards",
+        "name": "Times Square",
+        "loc": "Midtown Manhattan, NYC",
+        "desc": "sans the ball drop"
+      },
+      {
+        "path": "times-square-world-cup.jpg",
+        "alt": "rally in times square",
+        "name": "Times Square, World Cup Edition",
+        "loc": "Midtown Manhattan, NYC",
+        "desc": "Argentina won, and people celebrated in the streets"
+      },
+      {
+        "path": "empire-state-night-view2.jpg",
+        "alt": "nyc skyline at night",
+        "name": "Empire State Building",
+        "loc": "Midtown Manhattan, NYC",
+        "desc": "where I defied gravity"
+      },
+      {
+        "path": "empire-state-night-view.jpg",
+        "alt": "nyc skyline at night",
+        "name": "Empire State Building",
+        "loc": "Midtown Manhattan, NYC",
+        "desc": "(in New York, those blinding lights and concrete jungles)"
+      },
+      {
+        "path": "local92-nyc.jpg",
+        "alt": "cast iron skillet of shakshuka and bread",
+        "name": "Local 92 NY",
+        "loc": "East Village, Manhattan, NYC",
+        "desc": "shakshuka!"
+      },
+      {
+        "path": "little-italy.jpg",
+        "alt": "string lights and outside restaurants in the street",
+        "name": "Little Italy",
+        "loc": "Lower Manhattan, NYC"
+      },
+      {
+        "path": "greenwich-outside-the-strand.jpg",
+        "alt": "black asymetric skyscraper",
+        "name": "Greenwich Village",
+        "loc": "Manhattan, NYC"
+      },
+      {
+        "path": "colorful-books-the-strand.jpg",
+        "alt": "wall of colorful books",
+        "name": "The Strand Bookstore",
+        "loc": "Greenwich Village, Manhattan, NYC",
+        "desc": "where I bought a copy of G\u00f6del, Escher, Bach"
+      },
+      {
+        "path": "washington-square-park.jpg",
+        "alt": "me in front of the washington park arch",
+        "name": "Washington Square Park",
+        "loc": "Greenwich Village, Manhattan, NYC",
+        "desc": "where I saw a million trained pigeons and impressive hula-hoop routines... separately, of course"
+      },
+      {
+        "path": "brooklyn-bagels.jpg",
+        "alt": "bagel with blueberry cream cheese",
+        "name": "Brooklyn Bagel and Coffee Co",
+        "loc": "Greenwich Village, Manhattan, NYC",
+        "desc": "because you can't visit NYC without finding a bagel joint"
+      },
+      {
+        "path": "the-met-glass-overview.jpg",
+        "alt": "indoor balcony with sculptures and a cafe",
+        "name": "The Met",
+        "loc": "Upper East Side, Manhattan, NYC",
+        "desc": "giving ultimate art vibes"
+      },
+      {
+        "path": "triumph-of-aemilius-met.jpg",
+        "alt": "triumph of aemilius paulus in a golden frame",
+        "name": "Carle Venet",
+        "title": "The Triumph of Aemilius Paulus",
+        "loc": "The Met",
+        "loc2": "Upper East Side, Mahhattan, NYC"
+      },
+      {
+        "path": "egyptian-temple-the-met.jpg",
+        "alt": "stone egymptian temple ruins in the met",
+        "name": "The Temple of Dendur",
+        "loc": "The Met",
+        "loc2": "Upper East Side, Mahhattan, NYC"
+      },
+      {
+        "path": "greek-sculpture-atrium-met.jpg",
+        "alt": "atrium of greek and roman sculptures",
+        "name": "Greek and Roman Galleries",
+        "loc": "The Met",
+        "loc2": "Upper East Side, Mahhattan, NYC"
+      },
+      {
+        "path": "coin-fountain-greek-exhibit-met.jpeg",
+        "alt": "coin fountain in a statue exhibit",
+        "name": "Greek and Roman Galleries",
+        "loc": "The Met",
+        "loc2": "Upper East Side, Mahhattan, NYC",
+        "desc": "throw a coin and make a wish, but only if it's denarii"
+      },
+      {
+        "path": "origami-tree-nat-history.jpg",
+        "alt": "christmas tree with origami as ornaments",
+        "name": "Museum of Natural History",
+        "loc": "Upper West Side, Manhattan, NYC"
+      },
+      {
+        "path": "glass-space-nat-history.jpeg",
+        "alt": "floating planets in glass room",
+        "name": "Museum of Natural History",
+        "loc": "Upper West Side, Manhattan, NYC",
+        "desc": "planets not to scale"
+      },
+      {
+        "path": "wall-of-skeletons-nat-history.jpg",
+        "alt": "wall of animal skeletons",
+        "name": "Museum of Natural History",
+        "loc": "Upper West Side, Manhattan, NYC",
+        "desc": "totally not spooky"
+      },
+      {
+        "path": "dino-skelly-nat-history.jpg",
+        "alt": "t-rex skeleton",
+        "name": "Museum of Natural History",
+        "loc": "Upper West Side, Manhattan, NYC",
+        "desc": "Jurassic Park, eat your heart out"
+      },
+      {
+        "path": "katz-holding-up-pastrami.jpeg",
+        "alt": "kaylee holding up a pastrami sandwich",
+        "name": "Katz' Delicatessen",
+        "loc": "Lower East Side, Manhattan, NYC",
+        "desc": "I'll have what she's having (melt-in-your-mouth pastrami sandwiches the size of your head)"
+      },
+      {
+        "path": "rainy-times-square.jpg",
+        "alt": "times square on dreary rainy day",
+        "name": "Times Square",
+        "loc": "Midtown Manhattan, NYC",
+        "desc": "greeted by a sea of umbrellas and flashing billboards"
+      },
+      {
+        "path": "ord-rainbow-lights.jpg",
+        "alt": "airport hall with neon lights on the ceiling",
+        "name": "O'Hare Airport",
+        "loc": "Chicago, IL",
+        "desc": "technically not NYC, but cool lights nevertheless"
+      }
+    ],
+    "playlist": "3mnX3YhAR3eGbrmLnpFXZD?si=c4996efde428405d"
+  },
+  {
+    "title": "August 2022 - November 2022",
+    "date": "2022-08-02",
+    "slug": "2022-aug-22-nov-22",
+    "folder": "aug22-nov22",
+    "images": [
+      {
+        "path": "la-creperie-croque-madame.jpg",
+        "alt": "fries and ham and egg sandwich",
+        "name": "La Cr\u00eaperie",
+        "loc": "Lincoln Park",
+        "desc": "my favorite French restaurant in Chi, where I always order the croque madame"
+      },
+      {
+        "path": "hot-choco-machine-dining.jpg",
+        "alt": "skillet of pork and eggs",
+        "name": "Machine Engineered Dining and Drink",
+        "loc": "Wicker Park",
+        "desc": "brunch after a race! glazed pork with kimchi and fried eggs"
+      },
+      {
+        "path": "hot-choco-bear-art.jpeg",
+        "alt": "street art of yellow bear eating pizza",
+        "name": "JC Rivera",
+        "title": "The Bear Champ",
+        "loc": "Wicker Park"
+      },
+      {
+        "path": "chi-river-on-bridge-10-22.jpg",
+        "alt": "blue and green chi river and skyscrapers",
+        "name": "Chicago River",
+        "loc": "River North, Chicago"
+      },
+      {
+        "path": "miro-bird-lady-sculpture.jpg",
+        "alt": "concrete and steel sculpture of bird lady",
+        "name": "Mir\u00f3's Chicago",
+        "loc": "Chicago Loop"
+      },
+      {
+        "path": "chicago-picasso-sculpture.jpg",
+        "alt": "steel picasso sculpture",
+        "name": "Chicago Picasso",
+        "loc": "Chicago Loop"
+      },
+      {
+        "path": "drunken-noodles-urban-space.jpg",
+        "alt": "drunken noodles and thai iced tea",
+        "name": "Keadkao",
+        "loc": "Urban Space",
+        "loc2": "Chicago Loop",
+        "desc": "drunken noodles and maybe the best thai iced tea I've ever had"
+      },
+      {
+        "path": "iit-autumn-22.jpg",
+        "alt": "red and gold leaves",
+        "name": "Illinois Tech",
+        "loc": "Bronzeville, Chicago",
+        "desc": "tea-sipping autumn days"
+      },
+      {
+        "path": "lakefront-trail-oct-22.jpg",
+        "alt": "downtown chi from lakefront running trail",
+        "name": "Lakefront Trail",
+        "loc": "Museum Campus, Chicago",
+        "desc": "training for a race may be unpleasant, but the views along the lake aren't"
+      },
+      {
+        "path": "tsaocaa-shaved-ice.jpeg",
+        "alt": "korean shaved ice with strawberries and peaches",
+        "name": "Tsaocaa",
+        "loc": "Chinatown, Chicago",
+        "desc": "eating my weight in dessert. snowflake ice with strawberries and white peaches"
+      },
+      {
+        "path": "indiana-sand-dunes.jpeg",
+        "alt": "Kaylee on a giant red lifeguard chair",
+        "name": "Indiana Sand Dunes",
+        "loc": "Porter, IN",
+        "desc": "we had a picnic, fell down sand mountains, and did cartwheels in Lake Michigan"
+      },
+      {
+        "path": "navy-pier-chi-downtown-gray.jpg",
+        "alt": "downtown chi at dusk over lake michigan",
+        "name": "Navy Pier",
+        "loc": "Near North Side, Chicago"
+      },
+      {
+        "path": "ping-tom-park-picnic.jpg",
+        "alt": "chi river at dusk at a park",
+        "name": "Ping Tom Memorial Park",
+        "loc": "Chinatown, Chicago",
+        "desc": "picnic in the park"
+      },
+      {
+        "path": "chi-north-view-of-madison-sent-to-amit.jpg",
+        "alt": "chi glass skyscrapers reflecting the river",
+        "name": "North View from Madison Street",
+        "loc": "Chicago Loop",
+        "desc": "back to crystal clarity"
+      }
+    ],
+    "playlist": "6AnUNX6KB19M2a6nObusG5?si=9232eae2c1644bc3"
+  },
+  {
+    "title": "August 2022: San Francisco",
+    "date": "2022-08-01",
+    "slug": "2022-sf",
+    "folder": "sf-22",
+    "images": [
+      {
+        "path": "painted-ladies.jpg",
+        "alt": "row of seven colorfully painted victorian houses",
+        "name": "The Painted Ladies",
+        "loc": "San Francisco, CA",
+        "desc": "bright greens, pastel pinks, and baby blues"
+      },
+      {
+        "path": "pier-39-water.jpg",
+        "alt": "blue ocean and small dock with mountains in the background",
+        "name": "Pier 39",
+        "loc": "San Francisco, CA",
+        "desc": "I think I could have stayed here forever, feeling the breeze of the ocean on my face"
+      },
+      {
+        "path": "tessellation.jpg",
+        "alt": "blue art sculptures on a mosaic path",
+        "name": "Trinity Place",
+        "loc": "Mid-Market, San Francisco, CA",
+        "desc": "trippy looking sculptures and other such art"
+      },
+      {
+        "path": "union-square.jpg",
+        "alt": "empty street with string lights and paper latterns strung",
+        "name": "Union Square",
+        "loc": "San Francisco, CA",
+        "desc": "wandering the streets in SF with nothing but pluots and a good playlist"
+      },
+      {
+        "path": "golden-gate-park.jpg",
+        "alt": "lake and trees at a park",
+        "name": "Golden Gate Park",
+        "loc": "San Francisco, CA",
+        "desc": "nice for reading on benches"
+      },
+      {
+        "path": "ppq-pho.jpg",
+        "alt": "bowl of steak pho with bean sprouts",
+        "name": "Pho Phu Quoc",
+        "loc": "San Francisco, CA",
+        "desc": "vietnamese on Irving St. flank steak pho, much needed after a long day of traveling"
+      }
+    ],
+    "playlist": "7kBB5Uo5wBQTwHSs3Ar4Sv?si=0e42f02d194647fb"
+  },
+  {
+    "title": "June 2022 - August 2022: LA",
+    "date": "2022-06-01",
+    "slug": "2022-la",
+    "folder": "la-22",
+    "images": [
+      {
+        "path": "sunny-blue-omusubi.jpg",
+        "alt": "two rice balls wrapped in nori",
+        "name": "Sunny Blue",
+        "loc": "Santa Monica, Los Angeles, CA",
+        "desc": "cute omusubi shop on Main Street. miso beef and wafu curry with barley tea"
+      },
+      {
+        "path": "blue-venice-beach.jpg",
+        "alt": "bright blue tides and white sand",
+        "name": "Venice Beach",
+        "loc": "Venice, Los Angeles, CA",
+        "desc": "walking along the boardwalk and dipping our feet in the ocean"
+      },
+      {
+        "path": "griffith-observatory-la-view.jpg",
+        "alt": "observatory view of downtown LA",
+        "name": "Griffith Observatory",
+        "loc": "Los Angeles, CA",
+        "desc": "view of LA from atop Mount Hollywood. yes, I forgot to take a picture of the sign"
+      },
+      {
+        "path": "din-tai-fung-soup-and-greenbeans.jpg",
+        "alt": "basket of xiaolongbao dumplings and string beans",
+        "name": "Din Tai Fung",
+        "loc": "Century City, Los Angeles, CA",
+        "desc": "xiaolongbao with 18 folds"
+      },
+      {
+        "path": "meet-fresh-grass-jelly.jpg",
+        "alt": "bowl of shiny grass jelly and taro",
+        "name": "Meet Fresh",
+        "loc": "Westwood, Los Angeles, CA",
+        "desc": "first time trying grass jelly shaved ice, topped with taro and boba"
+      },
+      {
+        "path": "kai-ramen-la.jpg",
+        "alt": "tonkotsu ramen with egg and pork",
+        "name": "Kai Ramen",
+        "loc": "Santa Monica, CA",
+        "desc": "spicy tonkotsu ramen with minced pork"
+      },
+      {
+        "path": "grand-central-market-moon-rabbit.jpg",
+        "alt": "blue vendor stand",
+        "name": "Moon Rabbit",
+        "loc": "Grand Central Market",
+        "loc2": "Downtown Los Angeles, CA",
+        "desc": "asian tea and sandwiches"
+      },
+      {
+        "path": "grand-central-market-moon-rabbit-sando.jpg",
+        "alt": "takeout box of katsu chicken sandwich",
+        "name": "Moon Rabbit",
+        "loc": "Grand Central Market",
+        "loc2": "Downtown Los Angeles, CA",
+        "desc": "chicken katsu sandwich on Japanese milk bread"
+      },
+      {
+        "path": "grand-central-market-shiku.jpg",
+        "alt": "vendor with red neon sign",
+        "name": "Shiku",
+        "loc": "Grand Central Market",
+        "loc2": "Downtown Los Angeles, CA",
+        "desc": "mom-and-pop with homestyle Korean"
+      },
+      {
+        "path": "grand-central-market-shiku-chicken.jpg",
+        "alt": "takeout box of maekjuk chicken",
+        "name": "Shiku",
+        "loc": "Grand Central Market",
+        "loc2": "Downtown Los Angeles, CA",
+        "desc": "doenjang-marinated chicken with rice!"
+      },
+      {
+        "path": "manhattan-beach-la.jpg",
+        "alt": "pier at sunset over the ocean",
+        "name": "Manhattan Beach",
+        "loc": "El Segundo, Los Angeles, CA"
+      },
+      {
+        "path": "la-view-fourth-of-july.jpg",
+        "alt": "nighttime view of sprawling LA from above",
+        "name": "Getty View Park",
+        "loc": "Los Angeles, CA",
+        "desc": "star-gazing and watching fireworks illuminate LA"
+      },
+      {
+        "path": "oakobing-bingsu.jpg",
+        "alt": "bowls of green tea and mango bingsu",
+        "name": "Oakobing",
+        "loc": "K-town, Los Angeles, CA",
+        "desc": "bingsu dessert shop. green tea shaved ice with mochis and matcha (left) and mango shaved ice with melon (right)"
+      },
+      {
+        "path": "kobawoo-house-mai-and-miho.jpg",
+        "alt": "bossam, kimchi, and yikgaejang",
+        "name": "Kobawoo House",
+        "loc": "K-town, Los Angeles, CA",
+        "desc": "tried bossam and yukgaejang for the first time!"
+      },
+      {
+        "path": "outside-the-getty.jpg",
+        "alt": "white glass art museum",
+        "name": "The Getty",
+        "loc": "Los Angeles, CA",
+        "desc": "art museum on The Getty Campus"
+      },
+      {
+        "path": "getty-robert.jpg",
+        "alt": "suspended glass skeleton with blue neon currents",
+        "name": "Tavares Strachan",
+        "title": "Robert",
+        "loc": "The Getty",
+        "loc2": "Los Angeles, CA",
+        "desc": "my favorite display at the Getty? a levitating skeleton made of glass and pulsing neon light"
+      },
+      {
+        "path": "getty-campo-vaccino.jpg",
+        "alt": "campo vaccino painting in gold frame",
+        "name": "J. M. W. Turner",
+        "title": "Campo Vaccino",
+        "loc": "The Getty",
+        "loc2": "Los Angeles, CA"
+      },
+      {
+        "path": "santa-monica-pier-ferris-wheel.jpg",
+        "alt": "night at the beach with a ferris wheel",
+        "name": "Santa Monica Pier",
+        "loc": "Santa Monica, Los Angeles, CA"
+      },
+      {
+        "path": "the-last-bookstore.jpg",
+        "alt": "bookstore from the second floor balcony",
+        "name": "The Last Bookstore",
+        "loc": "Downtown Los Angeles, CA",
+        "desc": "turns out, this place has a LOT of books. browse the stacks, check out the book tunnel, and buy local art!"
+      },
+      {
+        "path": "grand-central-market-lemon-icecream.jpg",
+        "alt": "cup of ice cream",
+        "name": "McConnell's Fine Ice Creams",
+        "loc": "Grand Central Market",
+        "loc2": "Downtown Los Angeles, CA",
+        "desc": "the best ice cream I've had in my life. seriously. dish of lemon and marionberries"
+      },
+      {
+        "path": "westwood-village-palm-trees.jpg",
+        "alt": "road intersection with palm trees and string lights",
+        "name": "Westwood Village",
+        "loc": "Westwood, Los Angeles, CA",
+        "desc": "California dreaming"
+      }
+    ],
+    "playlist": "56hgBMlG34OwDsbwDReXTd?si=126a3ece5e264df9"
+  },
+  {
+    "title": "March 2022: Toronto",
+    "date": "2022-03-01",
+    "slug": "2022-toronto",
+    "folder": "toronto-22",
+    "images": [
+      {
+        "path": "pasaj-brunch-toronto.jpeg",
+        "alt": "pancakes, matcha, and eggs benedict",
+        "name": "PASAJ",
+        "loc": "Toronto, Canada",
+        "desc": "istanbul-style brunch. pancakes with sour cherry jam and tahini helva, zucchini fritters"
+      },
+      {
+        "path": "broadview-hotel-room.jpeg",
+        "alt": "hotel room with burgandy curtains and pink floral wallpaper",
+        "name": "Broadview Hotel",
+        "loc": "Toronto, Canada",
+        "desc": "this hotel had a cool record collection, which we danced to all night"
+      },
+      {
+        "path": "cn-tower-view-1.jpg",
+        "alt": "city lights at night from the top of the cn tower",
+        "name": "CN Tower",
+        "loc": "Downtown Toronto, Canada",
+        "desc": "dazzling view of the city from a dizzying height of 553m"
+      },
+      {
+        "path": "cn-tower-view-2.jpg",
+        "alt": "city lights at night from the top of the cn tower",
+        "name": "CN Tower",
+        "loc": "Downtown Toronto, Canada",
+        "desc": "(for Americans like me, that's 1,815ft)"
+      },
+      {
+        "path": "yonge-dondas-square-toronto.jpeg",
+        "alt": "billboard screens and red streetcars at an intersection",
+        "name": "Yonge-Dondas Square",
+        "loc": "Downtown Toronto, Canada",
+        "desc": "center square of the Yonge entertainment district"
+      },
+      {
+        "path": "broadview-hotel-noodle-dish.jpg",
+        "alt": "soba noodles with edamame",
+        "name": "Broadview Hotel Rooftop Bar",
+        "loc": "Toronto, Canada",
+        "desc": "soba noodles and a mojito"
+      },
+      {
+        "path": "outside-casa-loma.jpg",
+        "alt": "gothic castle like mansion with canadian flag",
+        "name": "Casa Loma",
+        "loc": "Toronto, Canada",
+        "desc": "mansion-turned-historic-museum. we explored 7 floors..."
+      },
+      {
+        "path": "chandelier-inside-casa-loma.jpeg",
+        "alt": "traditional dining room with a chandelier",
+        "name": "Casa Loma",
+        "loc": "Toronto, Canada",
+        "desc": "...and 98 rooms!"
+      }
+    ],
+    "playlist": "0EH5qjYoLsg5WWBQu1XfAk?si=d98cd97c72054b83"
+  },
+  {
+    "title": "September 2020-March 2022",
+    "date": "2020-09-01",
+    "slug": "2020-sept-20-mar-22",
+    "folder": "sep20-mar22",
+    "images": [
+      {
+        "path": "wndr-infinity-room.jpg",
+        "alt": "infinity mirror room with mirror ornaments",
+        "name": "Yayoi Kusama",
+        "title": "Let's Survive Forever",
+        "loc": "WNDR Museum",
+        "loc2": "West Loop, Chicago",
+        "desc": "exploring an infinity room in exactly one minute"
+      },
+      {
+        "path": "blue-leaves-west-loop.jpg",
+        "alt": "blue plant on the sidewalk",
+        "name": "Sidewalk Blues",
+        "loc": "West Loop, Chicago"
+      },
+      {
+        "path": "ramen-san-lunch-special.jpg",
+        "alt": "tray of tonkotsu ramen, salad, and karaage chicken",
+        "name": "RAMEN-SAN",
+        "loc": "River North, Chicago",
+        "desc": "karaage chicken and tonkotsu ramen"
+      },
+      {
+        "path": "breakfast-haleys-bday.jpg",
+        "alt": "eggs benedict with canadian bacon and hashbrowns",
+        "name": "Hutch American Bistro",
+        "loc": "Lakeview, Chicago",
+        "desc": "stumbling across a cute bistro along N. Clark. eggs benedict and hashbrowns"
+      },
+      {
+        "path": "cuddle-bunny-gray-ghost.jpg",
+        "alt": "large gray bunny",
+        "name": "Cuddle Bunny",
+        "loc": "Lincoln Park, Chicago",
+        "desc": "best stress relief?"
+      },
+      {
+        "path": "st-patricks-river.jpg",
+        "alt": "chicago river dyed bright green for st patricks",
+        "name": "St. Patrick's Day River",
+        "loc": "River North, Chicago",
+        "desc": "tour guides claim green Chicago rivers are safe"
+      },
+      {
+        "path": "maggie-daley-skating.jpg",
+        "alt": "ice skating rink surrounded by skyscrapers",
+        "name": "Maggie Daley Park",
+        "loc": "Chicago Loop",
+        "desc": "ice skating in the heart of downtown Chi"
+      },
+      {
+        "path": "shedd-aq-clownfish.jpg",
+        "alt": "two clownfish in the anenomes",
+        "name": "The Shedd Aquarium",
+        "loc": "Museum Campus, Chicago",
+        "desc": "have you seen my son?!"
+      },
+      {
+        "path": "grand-lux-picatta.jpg",
+        "alt": "lemon chicken picatta with capers and mushrooms",
+        "name": "Grand Lux Cafe",
+        "loc": "Michigan Avenue, Chicago",
+        "desc": "afternoon meal on the Mag Mile. lemon chicken piccata with fresh parmesan"
+      },
+      {
+        "path": "macs-chipotle-wi-dells.jpg",
+        "alt": "skillet of mac with lime",
+        "name": "MACS",
+        "loc": "Wisconsin Dells, WI",
+        "desc": "the best (and only) mac restaurant I've visited. chipotle mac with chicken and lime"
+      },
+      {
+        "path": "mexico-playa-sunrise-sienna.jpg",
+        "alt": "sunrise with pink skies on the seaside",
+        "name": "Playa del Carmen",
+        "loc": "Quintana Roo, Mexico",
+        "desc": "daybreak on the ocean"
+      },
+      {
+        "path": "mexico-rock-hopping.jpg",
+        "alt": "me on a rock along the blue ocean",
+        "name": "Playa del Carmen",
+        "loc": "Quintana Roo, Mexico",
+        "desc": "rock-hopping on the Caribbean shore"
+      },
+      {
+        "path": "lakefront-trail-from-shedd.jpg",
+        "alt": "trail by blue lake michigan",
+        "name": "Lakefront Trail",
+        "loc": "Museum Campus, Chicago",
+        "desc": "view of downtown and Lake Michigan from the Shedd Aquarium"
+      },
+      {
+        "path": "madison-rainy-day-insta.jpg",
+        "alt": "streetview of a skyscraper",
+        "name": "West Madison Street",
+        "loc": "Chicago Loop",
+        "desc": "walking along Madison St. on a rainy day"
+      },
+      {
+        "path": "golden-tubes-starbucks-reserve.jpg",
+        "alt": "large golden tubes running up five floors",
+        "name": "Starbucks Reserve Roastery",
+        "loc": "Michigan Ave, Chicago"
+      },
+      {
+        "path": "furious-spoon-tokyo-shoyu.jpg",
+        "alt": "tonkotsu ramen",
+        "name": "Furious Spoon",
+        "loc": "Lakeview, Chicago",
+        "desc": "tonkotsu ramen with chashu"
+      },
+      {
+        "path": "bites-asian-kitchen-duck-yakisoba.jpg",
+        "alt": "noodle dish with purple flower",
+        "name": "BITES Asian Kitchen",
+        "loc": "Lakeview, Chicago",
+        "desc": "roast duck and yakisoba noodles, topped with bonito flakes and sesame"
+      },
+      {
+        "path": "christmas-tree-science-industry.jpeg",
+        "alt": "colorful christmas tree",
+        "name": "Museum of Science and Industry",
+        "loc": "Hyde Park, Chicago",
+        "desc": "Christmas around the World and Holidays of Lights exhibition"
+      },
+      {
+        "path": "short-rib-aba.jpg",
+        "alt": "short ribs dish",
+        "name": "Aba",
+        "loc": "Fulton Market, Chicago",
+        "desc": "dining on mezze on the rooftop patio. tamarind-brased short ribs with barberries"
+      },
+      {
+        "path": "gaylord-opryland-resort-tn.jpg",
+        "alt": "indoor garden with hanging lights",
+        "name": "Gaylord Opryland Resort",
+        "loc": "Nashville, TN",
+        "desc": "the duality of December = festive lights + country music"
+      },
+      {
+        "path": "christmas-tree-millienium-park.jpg",
+        "alt": "colorful christmas tree at night",
+        "name": "Christmas in Millennium Park",
+        "loc": "Chicago Loop"
+      },
+      {
+        "path": "il-culaccino-vodka-pasta.jpg",
+        "alt": "vodka pasta topped with ricotta",
+        "name": "Il Culaccino",
+        "loc": "South Loop, Chicago",
+        "desc": "pipette alla vodka with ricotta"
+      },
+      {
+        "path": "autumn-at-macalester.jpg",
+        "alt": "orange and gold autumn trees",
+        "name": "Macalester College",
+        "loc": "St. Paul, MN",
+        "desc": "autumn daze"
+      },
+      {
+        "path": "garfield-conservatory-koi-fish.jpg",
+        "alt": "koi fish swimming in a pond",
+        "name": "Garfield Conservatory",
+        "loc": "Garfield Park, Chicago",
+        "desc": "botanical conservatory with care-free koi"
+      },
+      {
+        "path": "shedd-aq-blue-fish.jpg",
+        "alt": "blue and orange striped fish",
+        "name": "The Shedd Aquarium",
+        "loc": "Museum Campus, Chicago"
+      },
+      {
+        "path": "grand-lux-beignets.jpg",
+        "alt": "beignets with powdered sugar",
+        "name": "Grand Lux Cafe",
+        "loc": "Michigan Avenue, Chicago",
+        "desc": "that morning, I woke up from a dream where I ate beignets. had to fulfill fate"
+      },
+      {
+        "path": "arch-st-louis.jpg",
+        "alt": "arch in st louis with eerie storm clouds",
+        "name": "Gateway Arch",
+        "loc": "St. Louis, MO",
+        "desc": "right before torrential downpour"
+      },
+      {
+        "path": "old-settlers-day-ferris.jpg",
+        "alt": "view of a carnival on top of a ferris wheel",
+        "name": "Old Settler's Day",
+        "loc": "Rockton, IL",
+        "desc": "on top of the ferris wheel, at my hometown's annual festival"
+      },
+      {
+        "path": "beach-in-florida-with-haley.jpg",
+        "alt": "sunset on the ocean",
+        "name": "Gulfport Beach",
+        "loc": "St. Petersburg, FL"
+      }
+    ],
+    "playlist": "13SdxBkhYyHhfbg0wWTh00?si=67d92efaf5054d3e"
+  }
+]

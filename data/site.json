@@ -1,0 +1,113 @@
+{
+  "name": "Kaylee J. Rosendahl",
+  "quote": "You can't ever reach perfection, but you can believe in an asymptote towards which you are ceaselessly striving | Paul Kalanithi",
+  "resumeUrl": "https://drive.google.com/file/d/1a7PBcbHrSed7CHjbn4dd-VEeChjL96B4/view",
+  "socials": {
+    "letterboxd": "kjrosendahl",
+    "spotify": "7p6vtyrrt3dglpgyvc5gj2zpu?si=6172100f15de4477&nd=1",
+    "github": "kjrosendahl",
+    "linkedin": "kaylee-rosendahl",
+    "email": "kjrosendahl02@gmail.com"
+  },
+  "projects": [
+    {
+      "title": "The Lead Crisis in Chicago",
+      "date": "2023-05-24",
+      "url": "/pages/projects/chicago-lead/"
+    }
+  ],
+  "blog": [
+    {
+      "title": "Books to Peruse",
+      "date": "2026-11-02",
+      "url": "/pages/blog/books-to-peruse/"
+    },
+    {
+      "title": "A Group of Mathematicians Walk into a Convention Center...",
+      "date": "2023-01-11",
+      "url": "/pages/blog/jmm-in-boston/"
+    }
+  ],
+  "lucky": [
+    {
+      "word": "Poisoned",
+      "url": "/pages/projects/chicago-lead/"
+    },
+    {
+      "word": "Literate",
+      "url": "/pages/blog/books-to-peruse/"
+    },
+    {
+      "word": "Mathematical",
+      "url": "/pages/blog/jmm-in-boston/"
+    },
+    {
+      "word": "Out of Shape",
+      "url": "/pages/gallery/2024-may-24-dec-24/"
+    },
+    {
+      "word": "Curious",
+      "url": "/pages/gallery/2024-montreal/"
+    },
+    {
+      "word": "Awed",
+      "url": "/pages/gallery/2023-dec-23-apr-24/"
+    },
+    {
+      "word": "Thankful",
+      "url": "/pages/gallery/2023-nyc/"
+    },
+    {
+      "word": "Longful",
+      "url": "/pages/gallery/2023-aug-23-nov-23/"
+    },
+    {
+      "word": "Artsy",
+      "url": "/pages/gallery/2023-italy/"
+    },
+    {
+      "word": "Critical",
+      "url": "/pages/gallery/2023-may-23-aug-23/"
+    },
+    {
+      "word": "Introspective",
+      "url": "/pages/gallery/2023-seattle/"
+    },
+    {
+      "word": "Cute",
+      "url": "/pages/gallery/2023-mar-23-may-23/"
+    },
+    {
+      "word": "Bouncy",
+      "url": "/pages/gallery/2023-dc/"
+    },
+    {
+      "word": "Geometrical",
+      "url": "/pages/gallery/2023-jan-23-mar-23/"
+    },
+    {
+      "word": "Flashy",
+      "url": "/pages/gallery/2022-nyc/"
+    },
+    {
+      "word": "Independent",
+      "url": "/pages/gallery/2022-aug-22-nov-22/"
+    },
+    {
+      "word": "Spontaneous",
+      "url": "/pages/gallery/2022-sf/"
+    },
+    {
+      "word": "Languid",
+      "url": "/pages/gallery/2022-la/"
+    },
+    {
+      "word": "Reckless",
+      "url": "/pages/gallery/2022-toronto/"
+    },
+    {
+      "word": "Outshadowed",
+      "url": "/pages/gallery/2020-sept-20-mar-22/"
+    }
+  ]
+}

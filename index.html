@@ -1,4 +1,60 @@
----
-layout: page
-title: Home
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Kaylee J. Rosendahl</title>
+  <link rel="icon" type="image/png" href="/assets/images/favicon/favicon-32x32.png">
+  <link rel="apple-touch-icon" href="/assets/images/favicon/apple-touch-icon.png">
+  <link rel="stylesheet" href="/css/site.css">
+  <script src="https://kit.fontawesome.com/a74ec3136c.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div id="site-header"></div>
+  <main class="page">
+    <section id="panel-home">
+      <h1 class="home-name">Kaylee J. Rosendahl</h1>
+      <p class="home-quote">“You can't ever reach perfection, but you can believe in an asymptote towards which you are ceaselessly striving.” — Paul Kalanithi</p>
+
+      <div class="intro">
+        <p>Hi, I'm Kaylee! Welcome to my site.</p>
+
+        <p>I'm currently working as an AI/ML Engineer at 66degrees, a Google Cloud Partner consulting firm based out of Chicago.</p> 
+        <p>I graduated with my Master's in Computer Science and my Bachelor's in Applied Mathematics from the Illinois Institute of Technology.</p>
+        <p>Aside from professional endeavors, I love to travel, cook, collect art, watch and rate movies, jam at karaoke, and make cool birthday cards.</p>
+      </div>
+
+      <section class="section" id="projects">
+        <h2><u>Projects</u></h2>
+        <ul class="post-list" id="project-list"></ul>
+      </section>
+
+      <section class="section" id="blog">
+        <h2><u>Blog</u></h2>
+        <ul class="post-list" id="blog-list"></ul>
+      </section>
+
+      <div id="socials"></div>
+      <div class="lucky-wrap">
+        <a href="#" id="lucky-button" class="lucky-button" aria-label="I'm Feeling Lucky">
+          <span class="lucky-prefix">I'm Feeling</span>
+          <span class="lucky-viewport" aria-hidden="true">
+            <span class="lucky-track">
+              <span class="lucky-word is-current">Lucky</span>
+            </span>
+          </span>
+        </a>
+      </div>
+    </section>
+
+    <section id="panel-gallery" hidden>
+      <section class="section">
+        <h2><u>Gallery</u></h2>
+        <ul class="post-list" id="gallery-list"></ul>
+      </section>
+    </section>
+  </main>
+  <script src="/js/site.js"></script>
+</body>
+</html>
