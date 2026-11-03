@@ -2,16 +2,24 @@
   color-scheme: light dark;
   --font-sans: Futura, sans-serif;
   --font-mono: "Liberation Mono", Menlo, Courier, monospace, Consolas;
-  --bg: #ffffff;
-  --text: #222222;
-  --muted: #3f3f3f;
-  --highlight: #2ba0b3;
-  --header-bg: #ffffff;
-  --border: #e6e6e6;
-  --rule: #e6e6e6;
+  --bg: #121212;
+  --text: #f4f4f4;
+  --muted: #666666;
+  --highlight: #e23d3d;
+  --header-bg: #121212;
+  --border: #2a2a2a;
+  --rule: #2a2a2a;
   --page-pad: 2.5rem;
 }
 
+/* --bg: #ffffff;
+--text: #222222;
+--muted: #3f3f3f;
+--highlight: #2ba0b3;
+--header-bg: #ffffff;
+--border: #e6e6e6;
+--rule: #e6e6e6; */
+/* 
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #121212;
@@ -22,7 +30,7 @@
     --border: #2a2a2a;
     --rule: #2a2a2a;
   }
-}
+} */
 
 *,
 *::before,
