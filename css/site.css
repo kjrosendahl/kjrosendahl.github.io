@@ -431,6 +431,7 @@ article .post-date {
 }
 
 .dinner,
+.activities,
 .costumes {
   display: grid;
   grid-template-columns: 4.5em minmax(0, 1fr);
@@ -442,6 +443,7 @@ article .post-date {
 }
 
 .dinner .year,
+.activities .year,
 .costumes .year {
   color: var(--muted);
   white-space: nowrap;
