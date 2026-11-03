@@ -33,6 +33,10 @@
   ],
   "lucky": [
     {
+      "word": "Spooky",
+      "url": "/pages/halloween/"
+    },
+    {
       "word": "Poisoned",
       "url": "/pages/projects/chicago-lead/"
     },
