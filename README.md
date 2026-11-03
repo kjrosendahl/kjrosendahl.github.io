@@ -20,9 +20,9 @@ Use a local server (not `file://`) so `/data/...` and `/css/...` load correctly.
 | Theme / layout | `css/site.css` |
 | Gallery grid / hover | `css/gallery.css` |
 | Header, tabs, lists | `js/site.js` |
-| Resume, socials, project/blog links, lucky words | `data/site.json` |
+| Resume, socials, posts, lucky words | `data/site.json` |
 | **Gallery albums** | `data/galleries.json` |
-| Blog / project pages | `pages/blog/...`, `pages/projects/...` |
+| Post pages | `pages/blog/...`, `pages/projects/...` |
 
 Theme follows the OS: light accent `#2ba0b3`, dark accent `#e23d3d`.
 

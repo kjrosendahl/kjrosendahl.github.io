@@ -354,6 +354,72 @@ article .post-date {
   margin-top: 1.25rem;
 }
 
+.covers {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin: 0.75rem 0 0.5rem;
+}
+
+.cover {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  max-width: 100%;
+  color: var(--text);
+}
+
+.cover:hover {
+  text-decoration: none;
+}
+
+.cover:hover span:first-of-type {
+  text-decoration: underline;
+}
+
+.cover img {
+  display: block;
+  height: 140px;
+  max-width: 100%;
+  object-fit: cover;
+  margin-bottom: 0.25rem;
+}
+
+.cover img.square {
+  width: 140px;
+}
+
+.cover .via {
+  color: var(--muted);
+  font-size: 0.75rem;
+}
+
+.halloween-heading {
+  margin: 2em 0 0;
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: var(--muted);
+}
+
+.dinner,
+.costumes {
+  display: grid;
+  grid-template-columns: 4em 1fr;
+  gap: 0.65rem 0;
+  margin: 0.75rem 0 1.5rem;
+  line-height: 1.5;
+}
+
+.dinner .year,
+.costumes .year {
+  color: var(--muted);
+}
+
+.costumes .none {
+  color: var(--muted);
+  opacity: 0.7;
+}
+
 .book-list {
   margin: 1.25rem 0 0;
   padding-left: 1.25rem;

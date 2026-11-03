@@ -9,18 +9,21 @@
     "linkedin": "kaylee-rosendahl",
     "email": "kjrosendahl02@gmail.com"
   },
-  "projects": [
-    {
-      "title": "The Lead Crisis in Chicago",
-      "date": "2023-05-24",
-      "url": "/pages/projects/chicago-lead/"
-    }
-  ],
-  "blog": [
+  "posts": [
     {
       "title": "Books to Peruse",
       "date": "2026-11-02",
       "url": "/pages/blog/books-to-peruse/"
+    },
+    {
+      "title": "Halloween",
+      "date": "2026-10-31",
+      "url": "/pages/halloween/"
+    },
+    {
+      "title": "The Lead Crisis in Chicago",
+      "date": "2023-05-24",
+      "url": "/pages/projects/chicago-lead/"
     },
     {
       "title": "A Group of Mathematicians Walk into a Convention Center...",

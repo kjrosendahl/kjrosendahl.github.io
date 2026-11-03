@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Halloween — Kaylee J. Rosendahl</title>
+  <link rel="icon" type="image/png" href="/assets/images/favicon/favicon-32x32.png">
+  <link rel="apple-touch-icon" href="/assets/images/favicon/apple-touch-icon.png">
+  <link rel="stylesheet" href="/css/site.css">
+  <script src="https://kit.fontawesome.com/a74ec3136c.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div id="site-header"></div>
+  <main class="page">
+    <article>
+      <header id="post-meta" data-title="Halloween" data-date="" data-playlist=""></header>
+
+      <!-- Paste your Spotify playlist ID into the href below (and data-playlist above if you want the title icon). -->
+      <div class="covers">
+        <a class="cover" href="https://open.spotify.com/playlist/7L1PrcvBHru4zQlgTABaDe" id="halloween-playlist">
+          <img id="playlist-cover" class="square"
+               src="/assets/images/halloween/estelles.jpg"
+               alt="Halloween playlist cover"
+               loading="lazy"
+               onerror="this.remove()">
+          <span>Halloween playlist</span>
+          <span class="via">Spotify</span>
+        </a>
+      </div>
+
+      <h2 class="halloween-heading">What's for Dinner?</h2>
+      <div class="dinner">
+        <div class="year">2026</div>
+        <div>
+          monster smash-burgers, evil buffalo dip from hell, bloody berries, stuffed jack-o-peppers, bloody deviled eggs, snoopy cream in pumpkin cream puffs, vampire's pomegranate punch
+        </div>
+        <div class="year">2025</div>
+        <div>
+          vodka pasta, carved watermelon medley, spiderweb eggs, boring ham sliders, pumpkin bread, TJs cinnamon blondies, stabbed eye cocktails
+        </div>
+        <div class="year">2024</div>
+        <div>
+          charcuterie, hella alcohol, donuts on strings
+        </div>
+      </div>
+
+      <h2 class="halloween-heading">Costumes</h2>
+      <div class="costumes">
+        <div class="year">2026</div>
+        <div>
+          Nami, Cat Burglar 
+          <br> 
+          Bandana Waddle Dee with King Dedede 
+          <br> 
+          FNAF puppet with questionable beanie 
+          <br> 
+          gorgeous sensual mermaid fish, a fish who is a queen, who is also evil
+        </div>
+
+        <div class="year">2025</div>
+        <div>
+          Coraline
+        </div>
+
+        <div class="year">2024</div>
+        <div>
+          Shitty cardboard Wolverine 
+        </div>
+
+        <div class="year">2023</div>
+        <div>
+          Queen of Hearts
+        </div>
+
+        <div class="year">2022</div>
+        <div>
+          Princess Caroline
+        </div>
+
+        <div class="year">2021</div>
+        <div>
+          Beth Harmon in checkmate 
+        </div>
+
+        <div class="year">2020</div>
+        <div>
+          Dia de los Muertos 
+        </div>
+
+        <div class="year">2019</div>
+        <div>
+          n/a
+        </div>
+
+        <div class="year">2018</div>
+        <div>
+          Haunted doll
+        </div> 
+      </div>
+    </article>
+  </main>
+  <script src="/js/site.js"></script>
+  <script>
+    (function () {
+      const link = document.getElementById("halloween-playlist");
+      if (!link) return;
+      const href = link.getAttribute("href") || "";
+      if (!href.includes("7L1PrcvBHru4zQlgTABaDe") && href.includes("spotify.com/playlist/")) {
+        fetch("https://open.spotify.com/oembed?url=" + encodeURIComponent(href))
+          .then((r) => r.json())
+          .then((d) => {
+            const img = document.getElementById("playlist-cover");
+            if (img && d.thumbnail_url) img.src = d.thumbnail_url;
+          })
+          .catch(() => {});
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -317,16 +317,12 @@ async function init() {
     headerHost.innerHTML = renderHeader(data);
   }
 
-  const projects = document.getElementById("project-list");
-  const blog = document.getElementById("blog-list");
+  const posts = document.getElementById("post-list");
   const gallery = document.getElementById("gallery-list");
   const socials = document.getElementById("socials");
 
-  if (projects) {
-    projects.innerHTML = renderList(data.projects, true);
-  }
-  if (blog) {
-    blog.innerHTML = renderList(data.blog, true);
+  if (posts) {
+    posts.innerHTML = renderList(data.posts, true);
   }
   if (gallery && galleryRes) {
     const albums = await galleryRes.json();
